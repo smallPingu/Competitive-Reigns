@@ -14,7 +14,7 @@ Dos caballeros se enfrentan en la arena y deben comer hasta más no poder. El ca
 
 **Competitive Reigns** está diseñado para ser jugado por dos jugadores en el mismo teclado.
 
-| Jugador | Movimiento | Comer (Aumentar Estómago) |
+| Jugador | Movimiento | Saltar |
 | :--- | :--- | :--- |
 | **Caballero de la Izquierda** | W, A, S, D | **Espacio** |
 | **Caballero de la Derecha** | Flechas (↑, ↓, ←, →) | **Enter** |
@@ -26,7 +26,7 @@ Dos caballeros se enfrentan en la arena y deben comer hasta más no poder. El ca
   * **Motor:** Unity Engine
   * **Lenguaje:** C\#
   * **Asignatura:** PLD (Programación Lúdica)
-  * **Autor:** Arturo Molina
+  * **Autor:** smallPingu
 
 -----
 
