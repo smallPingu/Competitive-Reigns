@@ -1,7 +1,3 @@
-¡Claro\! Aquí tienes el contenido para tu archivo `README.md`, formateado para GitHub y listo para ser copiado.
-
------
-
 # ⚔️ Competitive Reigns
 
 ## 🏰 Visión General del Proyecto
